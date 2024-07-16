@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.csTests\bin\Debug\.netcoreapp,version=v5.0\CoverletSourceRootsMapping
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.csTests\obj\Debug\.netcoreapp,version=v5.0\Contas.csTests.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.csTests\obj\Debug\.netcoreapp,version=v5.0\Contas.csTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.csTests\obj\Debug\.netcoreapp,version=v5.0\Contas.csTests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.csTests\obj\Debug\.netcoreapp,version=v5.0\Contas.csTests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.csTests\obj\Debug\.netcoreapp,version=v5.0\Contas.csTests.csproj.CoreCompileInputs.cache

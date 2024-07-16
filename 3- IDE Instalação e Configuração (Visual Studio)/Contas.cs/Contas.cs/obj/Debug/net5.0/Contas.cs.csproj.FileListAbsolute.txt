@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\bin\Debug\net5.0\Contas.cs.exe
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\bin\Debug\net5.0\Contas.cs.deps.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\bin\Debug\net5.0\Contas.cs.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\bin\Debug\net5.0\Contas.cs.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\bin\Debug\net5.0\Contas.cs.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\bin\Debug\net5.0\ref\Contas.cs.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\bin\Debug\net5.0\Contas.cs.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\ref\Contas.cs.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\3- IDE Instalação e Configuração (Visual Studio)\Contas.cs\Contas.cs\obj\Debug\net5.0\Contas.cs.genruntimeconfig.cache

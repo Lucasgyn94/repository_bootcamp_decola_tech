@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\4-  Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\4-  Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\4-  Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\4-  Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\4-  Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\4-  Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\CSharp.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\4-  Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache

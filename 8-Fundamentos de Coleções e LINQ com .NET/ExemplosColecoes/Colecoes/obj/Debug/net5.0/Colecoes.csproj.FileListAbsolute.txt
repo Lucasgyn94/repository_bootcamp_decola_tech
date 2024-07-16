@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\bin\Debug\net5.0\Colecoes.exe
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\bin\Debug\net5.0\Colecoes.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\8-Fundamentos de Coleções e LINQ com .NET\ExemplosColecoes\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.Consol.exe
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.Consol.deps.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.Consol.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.Consol.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.Consol.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.Consol.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.csproj.CopyComplete
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.dll
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.pdb
+C:\Users\Admin\Desktop\DigitalOne\2- Bootcamp_Decola_Tech\13-CriandoAPIRestSimples\DIO.Series\DIO.Series.Consol\obj\Debug\netcoreapp3.1\DIO.Series.Consol.genruntimeconfig.cache
